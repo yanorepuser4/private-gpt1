@@ -1,5 +1,6 @@
 # Documentation of privateGPT
 
+Changed
 The documentation of this project is being rendered thanks to [fern](https://github.com/fern-api/fern).
 
 Fern is basically transforming your `.md` and `.mdx` files into a static website: your documentation.
